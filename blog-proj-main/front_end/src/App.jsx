@@ -10,6 +10,8 @@ import {UserContextProvider } from './context/UserContext';
 import {
   Route, Routes,
 } from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
   return ( 
